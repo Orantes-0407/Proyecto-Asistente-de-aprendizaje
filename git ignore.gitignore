@@ -1,0 +1,110 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Publish
+publish/
+out/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Archivos temporales y de configuración
+*.tmp
+*.temp
+*.bak
+
+# Ignorar la carpeta de la API y archivos relacionados
+Api/
+api/
+Tutor/Api/
+Tutor/api/
+Tutor/Api.cs
+Tutor/api.cs
+
+# Ignorar archivos de configuración sensibles (ajusta si tienes otros)
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Otros archivos o carpetas que quieras ignorar
+# /ruta/relativa/al/archivo_o_carpeta
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Publish
+publish/
+out/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Archivos temporales y de configuración
+*.tmp
+*.temp
+*.bak
+
+# Ignorar la carpeta de la API y archivos relacionados
+Api/
+api/
+Tutor/Api/
+Tutor/api/
+Tutor/Api.cs
+Tutor/api.cs
+
+# Ignorar archivos de configuración sensibles (ajusta si tienes otros)
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Otros archivos o carpetas que quieras ignorar
+# /ruta/relativa/al/archivo_o_carpeta
+
+#C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Form1\Tutor
+

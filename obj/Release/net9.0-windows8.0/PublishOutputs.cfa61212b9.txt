@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.exe
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.dll.config
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Tutor.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\DocumentFormat.OpenXml.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\Newtonsoft.Json.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\System.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive\Desktop\Proyecto progra\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
